@@ -137,7 +137,7 @@ This satisfies the requirement:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Jaydev-Mod/Home-Services-App.git
-cd home-services-booking
+cd HomeServicesApp
 ```
 
 ---
